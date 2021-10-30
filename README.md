@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shaffayqazi
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning JAVA 
-- 📫 How to reach me , Email me: abdulshaffayqazi@gmail.com
+- 📫 How to reach me , Mail me: abdulshaffayqazi@gmail.com
 
 <!---
 shaffayqazi/shaffayqazi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
