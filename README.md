@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shaffayqazi
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning JAVA 
+- 🌱 I’m currently learning Flutter 
 - 📫 How to reach me , Mail me: abdulshaffayqazi@gmail.com
 
 <!---
