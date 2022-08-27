@@ -3,8 +3,7 @@
       <h1> Hi there, I'm Abdul Shaffay👋<a href="#"></h1>
     </div>
   <p align="center">
-  <a href="https://github.com/shaffayqazi"><img src="https://readme-typing-svg.herokuapp.com?lines=Java+Developer;Front+End+Developer;Flutter Developer&center=true&width=500&height=50"></a>
-      
+  <a href="https://github.com/shaffayqazi"><img src="https://readme-typing-svg.herokuapp.com?lines=Java+Developer;Front+End+Developer;Flutter Developer&center=true&width=500&height=50"></a> </p>
    
       
   
