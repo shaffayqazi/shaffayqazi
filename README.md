@@ -4,7 +4,7 @@
     </div>
   
    ### I'm a Flutter Developer
-  - 🌱 I’m currently expanding my knowledge in Data Science.
+  - 🌱 I’m currently expanding my knowledge in Flutter.
   - 💡 I’m a Creative person.
   - 🥅 2022-23 Goals: Contribute more to Open Source projects and Execute my Innovative ideas.
   - 📫 How to reach me , Mail me: abdulshaffayqazi@gmail.com
