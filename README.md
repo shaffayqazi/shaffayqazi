@@ -35,10 +35,6 @@ Welcome to my GitHub profile! I'm a passionate Software Engineer and Flutter Dev
 
 ---
 
-## 📈 GitHub Stats
-
-![Abdul Shaffay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaffayqazi&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaffayqazi&layout=compact&theme=radical)
 
 ---
 
