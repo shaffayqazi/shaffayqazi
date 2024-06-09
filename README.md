@@ -6,9 +6,9 @@ Welcome to my GitHub profile! I'm a passionate Software Engineer and Flutter Dev
 
 ## 🚀 About Me
 
-- 🎓 **Software Engineer** with a strong foundation in computer science.
+- 🎓 **Software Engineering Student** with a strong foundation in computer science.
 - 💻 **Flutter Developer** focused on crafting beautiful, high-performance mobile applications.
-- 🌟 Passionate about **open-source contributions** and **community building**.
+- 🌟 Passionate about **open-source contributions**.
 - 📚 Constantly **learning** and **upgrading** my skills.
 
 ---
@@ -30,29 +30,24 @@ Welcome to my GitHub profile! I'm a passionate Software Engineer and Flutter Dev
 
 ### 📱 Flutter Applications
 
-- [**Project Name**](https://github.com/username/project-name) - Brief description of what this project does.
-- [**Another Project**](https://github.com/username/another-project) - Brief description of what this project does.
-
-### 🔧 Open Source Contributions
-
-- [**Contribution Repo**](https://github.com/username/contribution-repo) - Description of your contribution.
+- [**Project Name**](https://github.com/shaffayqazi/RentPayy-App)
+- [**Another Project**](https://github.com/shaffayqazi/PetCareHub-App)
 
 ---
 
 ## 📈 GitHub Stats
 
-![Abdul Shaffay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Abdul Shaffay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaffayqazi&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaffayqazi&layout=compact&theme=radical)
 
 ---
 
 ## 📫 Get in Touch
 
-- LinkedIn: [Abdul Shaffay](https://www.linkedin.com/in/your-linkedin-username/)
-- Email: [abdulshaffay@example.com](mailto:abdulshaffay@example.com)
-- Twitter: [@your-twitter-handle](https://twitter.com/your-twitter-handle)
+- LinkedIn: [Abdul Shaffay](https://www.linkedin.com/in/abdul-shaffay-qazi/)
+- Email: [abdulshaffay@example.com](mailto:abdulshaffayqazi@gmail.com)
+- Twitter: [@your-twitter-handle](https://twitter.com/shaffay_abdul)
 
 ---
 
 Thanks for stopping by! 😊
-
