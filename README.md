@@ -30,8 +30,8 @@ Welcome to my GitHub profile! I'm a passionate Software Engineer and Flutter Dev
 
 ### 📱 Flutter Applications
 
-- [**Project Name**](https://github.com/shaffayqazi/RentPayy-App)
-- [**Another Project**](https://github.com/shaffayqazi/PetCareHub-App)
+- [**RentPayy**](https://github.com/shaffayqazi/RentPayy-App)
+- [**PetCareHub**](https://github.com/shaffayqazi/PetCareHub-App)
 
 ---
 
